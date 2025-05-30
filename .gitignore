@@ -5,7 +5,6 @@ obj/
 *.db-journal
 .env
 .vs/
-.vscode/
 *.suo
 *.user
 *.userosscache
@@ -56,3 +55,6 @@ desktop.ini
 
 # Git merge conflict files
 *.orig
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
